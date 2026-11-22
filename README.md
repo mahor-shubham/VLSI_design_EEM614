@@ -220,7 +220,7 @@ The repository includes experiment-wise PDF documentation, LTspice circuit files
 ## 📁 Repository Structure
 
 ```text
-analog_ic_and_systems_EEM614/
+ VLSI_design_EEM614/
 │
 ├── Experiment No. 01/
 │   ├── Experiment Report.pdf
