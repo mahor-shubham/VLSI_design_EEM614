@@ -176,39 +176,6 @@ The repository includes experiment-wise PDF documentation, LTspice circuit files
 
 ---
 
-## 🔬 Laboratory Project (Lab PT Project)
-
-### Design and Performance Analysis of 3-Stage and 5-Stage CMOS Ring Oscillators
-
-**Objective:** Design 3-stage and 5-stage CMOS ring oscillators at 90 nm, 45 nm, and 22 nm technology nodes using a constant supply voltage of 1 V, and investigate their performance.
-
-**Topics Covered:**
-
-**Part 1 – Technology Scaling Analysis**
-- 3-Stage CMOS Ring Oscillator
-- 5-Stage CMOS Ring Oscillator
-- 90 nm, 45 nm and 22 nm Technology Nodes
-- Oscillation Frequency Measurement
-- Propagation Delay vs. Channel Length
-- Power-Delay Product (PDP)
-- Comparison of Oscillator Configurations
-
-**Part 2 – Supply Voltage Analysis**
-- 5-Stage Ring Oscillator at 90 nm
-- Supply Voltage Variation: 1 V, 1.5 V, 2 V and 2.5 V
-- Propagation Delay vs. VDD
-- Gate Power-Delay Product vs. VDD
-- Frequency and Power Behaviour
-- Supply Voltage and Performance Trade-offs
-
-**Project Analysis:**
-- Comparison of 3-stage and 5-stage oscillator performance.
-- Effect of technology scaling on propagation delay and oscillation frequency.
-- Effect of supply voltage on switching speed and power consumption.
-- Evaluation of power-delay product across different operating conditions.
-
----
-
 ## 🛠️ Tools and Technologies
 
 - **LTspice** – Circuit design, simulation and waveform analysis.
@@ -265,14 +232,6 @@ The repository includes experiment-wise PDF documentation, LTspice circuit files
 │   ├── CD4007 D Latch.asc
 │   ├── 180nm D Latch.asc
 │   └── D FF.asc
-│
-├── Lab PT Project/
-│   ├── Project Report.pdf
-│   ├── Three Stage CMOS Ring Oscillator.asc
-│   └── Five Stage CMOS Ring Oscillator.asc
-│
-├── Complete Lab Record/
-│   └── Complete Lab Record.pdf
 │
 └── README.md
 ```
