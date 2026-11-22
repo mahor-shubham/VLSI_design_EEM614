@@ -299,7 +299,6 @@ Through these experiments and project work, practical understanding was develope
 | Detail | Information |
 |---|---|
 | Name | Shubham Mahor |
-| Roll Number | 2104690 |
 | Branch | Electrical Engineering (Electronics) |
 | Semester | 6th Semester |
 | Batch | 2023-2027 |
